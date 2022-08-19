@@ -3,7 +3,7 @@ package org.example.Animals;
 public abstract class Animal {
     protected String animalType;
 
-    public Animal(String animalType) {
+    public Animal(String animalType) { //animal type
         this.animalType = animalType;
     }
 
