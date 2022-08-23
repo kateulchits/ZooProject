@@ -7,15 +7,15 @@ public abstract class Animal {
         this.animalType = animalType;
     }
 
-    public void animalTypeInfo() {
+    public void animalTypeInfo() { //main method for animalType
         System.out.println("This animal is "+animalType);
     }
 
-    public void breatheInfo(String breathe) {
+    public void breatheInfo(String breathe) { //main method for animalBreathe
         System.out.println("It breathes "+breathe);
     }
 
-    public void walkInfo(String walk) {
+    public void walkInfo(String walk) { //main method for animalWalk
         System.out.println("It moves "+walk);
     }
 }
