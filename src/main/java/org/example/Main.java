@@ -10,5 +10,6 @@ public class Main {
 
         ShowInfo info = new ShowInfo();
         info.showInfo();
+        info.ShowInfoOfAnimals();
     }
 }
