@@ -3,7 +3,7 @@ package org.example.Animals;
 import java.util.ArrayList;
 
 public class ListOfAnimals {
-    public void ShowList() {
+    public void ShowList() { //full list
         ArrayList<String> listOfAnimals = new ArrayList<>();
         listOfAnimals.add("1. Cat");
         listOfAnimals.add("2. Zebra");
