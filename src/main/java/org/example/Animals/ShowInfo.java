@@ -15,7 +15,7 @@ import java.util.Scanner;
 
 public class ShowInfo {
     public void ShowInfoOfAnimals() {
-        while (true) { // loop
+        while (true) { // loooop
             try {
                 Scanner scanner = new Scanner(System.in);
                 System.out.print("Enter a number: ");
