@@ -14,8 +14,8 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class ShowInfo {
-    public void ShowInfo() {
-        while (true) {
+    public void ShowInfoOfAnimals() {
+        while (true) { // loop
             try {
                 Scanner scanner = new Scanner(System.in);
                 System.out.print("Enter a number: ");

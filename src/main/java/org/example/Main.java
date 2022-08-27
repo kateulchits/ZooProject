@@ -9,6 +9,6 @@ public class Main {
         list.ShowList();
 
         ShowInfo info = new ShowInfo();
-        info.ShowInfo();
+        info.ShowInfoOfAnimals();
     }
 }
